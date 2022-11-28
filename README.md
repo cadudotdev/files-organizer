@@ -1,2 +1,2 @@
 # files-organizer
-A background script to organize your files by folder.
+Put your files inside a folder and the script will organize it for you.
